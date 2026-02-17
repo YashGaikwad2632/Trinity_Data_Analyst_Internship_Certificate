@@ -1,6 +1,6 @@
 Trainity Data Analyst Program - Internship, Training & Certification
 
-This repository showcases my journey through the Trainity Data Analyst Program, including training, internship experience, live projects, and certification. The program provided hands-on experience in data analytics, visualization, SQL,Tableau, PowerBI and Excel, preparing me for real-world data-driven problem solving.
+This repository showcases my journey through the Trainity Data Analyst Program, including training, internship experience, live projects, and certification. The program provided hands-on experience in data analytics, visualization, SQL,Tableau, PowerBI, Excel, Tableau, PowerBI, Python and preparing me for real-world data-driven problem solving.
 
 📚 About the Program
 
@@ -11,13 +11,15 @@ The Trainity Data Analyst Program is designed to equip learners with the skills 
 - SQL-based querying and analysis  
 - Statistical analysis using Excel and other tools  
 - Hands-on experience with real-world datasets  
-- Data-driven decision-making and reporting  
+- Data-driven decision-making and reporting
+- Tableau and PowerBI Basics
+- Python Basics
 
 🏫 Program Highlights
 
 - Internship experience with real-life projects  
 - Exposure to live data analytics scenarios  
-- Training in SQL, Microsoft Excel, tableau, PowerBI and data visualization  
+- Training in SQL, Microsoft Excel, tableau, PowerBI, python and data visualization  
 - Certification awarded upon successful completion  
 
 🗂 Repository Contents
@@ -37,8 +39,8 @@ The Trainity Data Analyst Program is designed to equip learners with the skills 
 
 📄 References
 
-- Program: [Trainity Data Analyst Program]-(https://trainity.com)  
-- Platform: Trainity Education  
+- Program:- [Trainity Data Analyst Program]-(https://trainity.com)  
+- Platform:- Trainity Education  
 
 ---
 
